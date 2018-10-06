@@ -1,4 +1,4 @@
 # Design
 Simple html and css
 
-It is just an sample of css buttons.
+It is just a sample of css buttons.
