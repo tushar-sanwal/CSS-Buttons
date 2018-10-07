@@ -26,7 +26,6 @@ body {
     font: inherit;
     line-height: normal;
     cursor: pointer;
-    -moz-user-select: text;
     display: block;
     text-decoration: none;
     text-transform: uppercase;
@@ -37,11 +36,6 @@ body {
     border-radius: 6px;
     margin-bottom: 16px;
     transition: all 0.5s ease;
-}
-
-.btn::-moz-focus-inner {
-    padding: 0;
-    border: 0;
 }
 
 .btn--stripe {
